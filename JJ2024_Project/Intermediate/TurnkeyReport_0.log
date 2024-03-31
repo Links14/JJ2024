@@ -1,5 +1,0 @@
-Android: (Status=Valid, Allowed_Sdk=r25b, Current_Sdk=r25b, Allowed_AutoSdk=r25b, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists, Sdk_HasBestVersion")
-IOS: (Status=Invalid, MinAllowed_Sdk=1100.0.0.0, MaxAllowed_Sdk=8999.0, Current_Sdk=, Allowed_AutoSdk=14.1, Current_AutoSdk=, Flags="Platform_ValidHostPrerequisites")
-Linux: (Status=Valid, Allowed_Sdk=v22_clang-16.0.6-centos7, Current_Sdk=v22_clang-16.0.6-centos7, Allowed_AutoSdk=v22_clang-16.0.6-centos7, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists, Sdk_HasBestVersion")
-LinuxArm64: (Status=Valid, Allowed_Sdk=v22_clang-16.0.6-centos7, Current_Sdk=v22_clang-16.0.6-centos7, Allowed_AutoSdk=v22_clang-16.0.6-centos7, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists, Sdk_HasBestVersion")
-Win64: (Status=Valid, MinAllowed_Sdk=10.0.00000.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.22621.0, Allowed_AutoSdk=10.0.18362.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
